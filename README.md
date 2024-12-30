@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project demonstrates the use of Qiskit to create and manipulate quantum circuits. The code prepares a quantum state, measures it, and calculates expectation values using Qiskit's StatevectorSampler and StatevectorEstimator primitives. Additionally, it shows how to transpile a quantum circuit for a specific set of basis gates and coupling map.
-
-This project demonstrates the use of Qiskit to create and manipulate quantum circuits. It prepares a quantum state, measures it, and calculates expectation values using Qiskit's StatevectorSampler and StatevectorEstimator primitives. Additionally, it shows how to transpile a quantum circuit for specific basis gates and coupling maps.
+This project demonstrates the use of Qiskit to create and manipulate quantum circuits. The code prepares a quantum state, measures it, and calculates expectation values using Qiskit's StatevectorSampler and StatevectorEstimator primitives. Additionally, it shows how to transpile a quantum circuit for a specific set of basis gates and coupling maps.
 
 ## Prerequisites
 
