@@ -45,11 +45,7 @@ pip install qiskit numpy
 
 3. **Execute Using the Sampler Primitive**
 
-   Use the 
-
-StatevectorSampler
-
- to execute the circuit and get the measurement counts:
+   Use the StatevectorSampler to execute the circuit and get the measurement counts:
 
    ```python
    sampler = StatevectorSampler()
@@ -68,11 +64,7 @@ StatevectorSampler
 
 5. **Execute Using the Estimator Primitive**
 
-   Use the 
-
-StatevectorEstimator
-
- to calculate the expectation values:
+   Use the StatevectorEstimator to calculate the expectation values:
 
    ```python
    estimator = StatevectorEstimator()
@@ -92,11 +84,7 @@ StatevectorEstimator
 
 ## Running the Code
 
-To run the code, execute the 
-
-test_qiskit.py
-
- script:
+To run the code, execute the test_qiskit.py script:
 
 ```sh
 python test_qiskit.py
